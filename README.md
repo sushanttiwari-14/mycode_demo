@@ -1,2 +1,3 @@
 # mycode_demo
-my first depositery
+my first repository
+Author - sushant 
