@@ -1,4 +1,5 @@
 # mycode_demo
-my first repository
-<br>
-Author - sushant 
+
+My first repository on GitHub.
+
+Author: Sushant Tiwari
